@@ -34,7 +34,7 @@ export const TextField = ({
         style={{
           padding: '0.5rem',
           border: `1px solid ${error ? 'red' : '#ccc'}`,
-          borderRadius: 4,
+          borderRadius: 6,
           width: '100%',
           boxSizing: 'border-box',
         }}
